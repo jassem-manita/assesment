@@ -13,6 +13,15 @@ The `demo.py` provides a highly interactive interface with capabilities to:
 - Compare predictions across all implemented models
 - Visualize model predictions with actual data
 
+Here are screenshots showcasing the Streamlit demo's features:
+
+![Time Series Model Inference and Comparison](visualizations/streamlit_demo_1.jpeg)
+*Model selection and forecast period adjustment*
+
+![Forecasting Results Visualization](visualizations/streamlit_demo_2.jpeg)
+*Visualizing model predictions alongside actual data*
+
+
 ## Prerequisites
 
 ### Python Version
