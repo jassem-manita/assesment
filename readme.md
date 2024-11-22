@@ -19,6 +19,7 @@ Here are screenshots showcasing the Streamlit demo's features:
 *Model selection and forecast period adjustment*
 
 ![Forecasting Results Visualization](visualizations/streamlit_demo_2.jpeg)
+
 *Visualizing model predictions alongside actual data*
 
 
