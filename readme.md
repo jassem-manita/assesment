@@ -18,7 +18,7 @@ Here are screenshots showcasing the Streamlit demo's features:
 ![Time Series Model Inference and Comparison](visualizations/demo1.PNG)
 *Model selection and forecast period adjustment*
 
-![Forecasting Results Visualization](visualizations/demo1.PNG)
+![Forecasting Results Visualization](visualizations/demo2.PNG)
 
 *Visualizing model predictions alongside actual data*
 
